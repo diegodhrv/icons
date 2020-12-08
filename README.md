@@ -1,4 +1,4 @@
-# roit-icons-svg
+# icons-svg
 
 ## Project setup
 ```
